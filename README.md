@@ -4,7 +4,7 @@ Projeto de estudo backend
 
 ## Linguagens utilizadas
 
-Java
+- Java
 
 ## Autor
 
